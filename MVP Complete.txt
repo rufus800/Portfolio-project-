@@ -1,0 +1,29 @@
+﻿Status Update On Portfolio Project
+
+
+
+
+
+
+1. Progress
+*  6.5 
+* The project is going well, and i am almost done with it
+* The hero section and the about section already came out as planned i’m just trying to fix a button and complete the features section
+* The features section and a button responsiveness in the hero section
+
+
+2. Challenges
+* The most difficult technical challenge i encountered was the responsiveness of my web page: I would not really say it was difficult but that was the only challenge that suited the question.   Responsive web design is a critical aspect of web development in today's world. As more and more users access websites on different devices, including smartphones, tablets, and desktops, it is essential to ensure that web pages are accessible and usable on all devices.  There are several reasons why a web page may not be responsive. One of the main reasons is that the design of the web page is not optimized for different screen sizes. This can lead to issues such as text and images not fitting on the screen, buttons and links being too small to click on, and navigation menus not being easily accessible.   To address this challenge, i had to make several changes to the design of the landing page.  Another important aspect of responsive web design is ensuring that the user experience is consistent across different devices. This means that the navigation menus, buttons, and other elements of the page should be easy to use and accessible on all devices. So i had to make sure it was responsive and finally i was able to.
+* The most difficult non-technical challenge i encountered was because i didn’t have a team and i had no one to work with that could share ideas with me.   Not having a team in a project can be a significant challenge for various reasons. 
+
+
+Firstly, a project usually involves multiple tasks and requires different skill sets to complete. Without a team, all these tasks must be completed by a single person, which can be overwhelming and time-consuming. It can also lead to a lack of diversity in ideas and approaches, as there is no collaboration or discussion between team members.
+
+
+Furthermore, having a team allows for the sharing of workload, ensuring that each member's skills are used effectively, and tasks are completed efficiently. Without a team, there is a high possibility of burnout or fatigue, which can ultimately result in delays or project failure.
+
+
+Another disadvantage of not having a team is that it can be challenging to gather feedback and assess the project's progress. With a team, members can provide regular updates and feedback, which can help identify issues and make necessary changes before it's too late. Additionally, team members can contribute to problem-solving, providing new perspectives and ideas, which can result in better outcomes.
+
+
+In summary, not having a team in a project can be a significant challenge, leading to a lack of diversity in ideas and approaches, a heavy workload, and a lack of support and feedback. These challenges can ultimately result in project failure, delays, or poor outcomes. Therefore, it's essential to consider building a team or finding ways to collaborate with others to improve the project's success. In the end, i had to seek out help from a friend he gave me ideas to work on the project thankfully.
